@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityHub.API", "CharityHub.API\CharityHub.API.csproj", "{0DC697B1-417F-4051-BD18-CD258E3795B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityHub.Domain", "CharityHub.Domain\CharityHub.Domain.csproj", "{05CC1FAF-0094-4348-A16E-9D95B8F201F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityHub.Infrastructure", "CharityHub.Infrastructure\CharityHub.Infrastructure.csproj", "{885A6B13-4B45-411A-9127-E5E7BAE3E405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityHub.Application", "CharityHub.Application\CharityHub.Application.csproj", "{FADD34FB-4D9F-4BEF-B2D2-6A2657868E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityHub.Presentation", "CharityHub.Presentation\CharityHub.Presentation.csproj", "{D789798B-1BF4-4443-BCEC-C62A17195CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC697B1-417F-4051-BD18-CD258E3795B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC697B1-417F-4051-BD18-CD258E3795B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC697B1-417F-4051-BD18-CD258E3795B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC697B1-417F-4051-BD18-CD258E3795B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CC1FAF-0094-4348-A16E-9D95B8F201F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CC1FAF-0094-4348-A16E-9D95B8F201F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CC1FAF-0094-4348-A16E-9D95B8F201F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CC1FAF-0094-4348-A16E-9D95B8F201F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885A6B13-4B45-411A-9127-E5E7BAE3E405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885A6B13-4B45-411A-9127-E5E7BAE3E405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885A6B13-4B45-411A-9127-E5E7BAE3E405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885A6B13-4B45-411A-9127-E5E7BAE3E405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADD34FB-4D9F-4BEF-B2D2-6A2657868E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADD34FB-4D9F-4BEF-B2D2-6A2657868E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADD34FB-4D9F-4BEF-B2D2-6A2657868E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADD34FB-4D9F-4BEF-B2D2-6A2657868E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D789798B-1BF4-4443-BCEC-C62A17195CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D789798B-1BF4-4443-BCEC-C62A17195CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D789798B-1BF4-4443-BCEC-C62A17195CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D789798B-1BF4-4443-BCEC-C62A17195CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

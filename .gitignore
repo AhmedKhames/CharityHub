@@ -1,0 +1,11 @@
+/.idea/
+/CharityHub.API/obj
+/CharityHub.Application/obj
+/CharityHub.Domain/obj
+/CharityHub.Infrastructure/obj
+/CharityHub.Presentation/obj
+/CharityHub.API/bin
+/CharityHub.Application/bin
+/CharityHub.Domain/bin
+/CharityHub.Infrastructure/bin
+/CharityHub.Presentation/bin
